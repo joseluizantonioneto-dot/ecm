@@ -1,0 +1,17 @@
+{
+ "name": "ECM Ensaios",
+ "short_name": "ECM Ensaios",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F2F2F7",
+ "theme_color": "#F2F2F7",
+ "lang": "pt-BR",
+ "icons": [
+  {
+   "src": "icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
